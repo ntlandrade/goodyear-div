@@ -1,0 +1,203 @@
+body {
+    background-color: #2D2C67;
+}
+
+span{
+   font-weight: bold;
+}
+
+.topo {
+     width: 1024px;
+     height: 136px;
+     background-color: #23218E;
+     margin: auto;  
+}   
+
+.topo2 {
+   width: 1024px;
+     height: 30px;
+     background-color: #23218E;
+     margin: auto;  
+}   
+
+.logo {
+    padding-left: 27px;
+    padding-top: 42px;
+    width: 327px;
+    height: 58px;
+}
+
+.container {
+     display: flex;
+}
+
+.menu {
+    width: 1024px;
+    height: 36px;
+    background: #E3CE42;
+    margin:auto;
+}
+
+.botao-menu {
+     font-family: sans-serif;
+     font-size: 20px;
+     font-weight: 400;
+     line-height: 20px;
+     display: inline-block;
+     margin-left: 60px;
+     padding-top: 7px;
+     text-decoration: none;
+     color: #000000;
+}
+
+.selecionado {
+     width: 202px;
+     height: 29px;
+     background: #2D2C67;
+     color: #ffffff;
+     text-align: center;
+     font-family: sans-serif;
+     font-size: 20px;
+     line-height: 23px;
+     display: inline-block;
+     margin-left: 27px;
+     padding-top: 7px;
+     text-decoration: none;
+}
+
+.imagem1 {
+    margin: auto;
+    width: 1024px;
+    background-image: url("imagem/imagem1.png");
+    height: 559px;
+}
+
+.imagem2 {
+    margin: auto;
+    width: 1024px;
+    background-image: url("imagem/imagem2.png");
+    height: 443px;
+}
+
+.imagem3 {
+   margin: auto;
+   width: 1024px;
+   background-image: url("imagem/imagem3.png");
+   height: 484px;
+}
+
+.texto1 {
+   font-family: sans-serif;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 36px;
+   line-height: 30px;
+   letter-spacing: -0.015em;
+   color: #2D2C67;
+   padding-left: 571px;
+   padding-top: 109px;
+}
+
+.subtexto1 {
+   font-family: sans-serif;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 16px;
+   line-height: 26px;
+   letter-spacing: -0.015em;
+   color: #000000;
+   padding-left: 571px;
+   padding-top: 5px;
+}
+
+.botao1 {
+      width: 421px;
+      height: 36px;
+      background: #FFDD00;
+      color: #000000;
+      text-align: center;
+      font-family: sans-serif;
+      font-style: normal;
+      font-size: 20px;
+      line-height: 23px;
+      display: inline-block;
+      margin-left: 571px;
+      margin-top: 20px;
+      text-decoration: none;
+      padding-top: 10px
+}
+
+.texto2 {
+   font-family: sans-serif;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 36px;
+   line-height: 30px;
+   letter-spacing: -0.015em;
+   color: #ffffff;
+   padding-left: 22px;
+   padding-top: 136px;
+}
+
+.subtexto2 {
+   font-family: sans-serif;
+   font-style: normal;
+   font-weight: 700;
+   font-size: 16px;
+   line-height: 26px;
+   letter-spacing: -0.015em;
+   color: #FFDD00;
+   padding-left: 22px;
+   padding-top: 5px;
+}
+
+.botao2 {
+      width: 421px;
+      height: 36px;
+      background: #FFDD00;
+      color: #000000;
+      text-align: center;
+      font-family: sans-serif;
+      font-style: normal;
+      font-size: 20px;
+      line-height: 23px;
+      display: inline-block;
+      margin-left: 22px;
+      margin-top: 20px;
+      text-decoration: none;
+      padding-top: 10px
+}
+
+.footer{
+   width: 1024px;
+   height: 97px;
+   background: #413FA7;
+   margin: auto;
+}
+
+.texto-footer1{
+   color:#FFFFFF;
+   padding-top:10px;
+   font-size:20px;
+   font-family:sans-serif;
+   display: inline-block;
+   margin-left: 13px;
+}
+
+.texto-footer2{
+   color:#FFFFFF;
+   padding-top:10px;
+   font-size:20px;
+   font-family:sans-serif;
+   display: inline-block;
+   margin-left: 215px;
+}
+
+.termos {
+   color:#FFDD00;
+   padding-top:9px;
+   font-size:20px;
+   font-family:sans-serif;
+   display: inline-block;
+   margin-left: 649px;
+}
